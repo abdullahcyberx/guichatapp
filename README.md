@@ -37,5 +37,9 @@ sudo apt-get install libgtk-3-dev
 ### Screen Shot
 
 ![GUI Chat Application Screenshot](1.png)
-
-
+---
+![GUI Chat Application Screenshot](2.png)
+---
+![GUI Chat Application Screenshot](3.png)
+---
+![GUI Chat Application Screenshot](3.png)
