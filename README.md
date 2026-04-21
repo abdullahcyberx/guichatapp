@@ -26,12 +26,14 @@ This repository contains the source code for a GUI Chat Application developed fo
 * **Safe Memory Management:** Replaces raw char array buffer management with `std::string` for safe string handling, and uses `new` and `delete` to ensure every allocation has a matching deallocation with no memory leaks.
 
 ---
-
+![GUI Chat Application Screenshot](1.png)
 ## Getting Started
 
 ### Prerequisites
 GTK-3 development libraries must be installed. On Ubuntu / Kali / WSL:
 ```bash
 sudo apt-get install libgtk-3-dev
-
+```
 ![GUI Chat Application Screenshot](1.png)
+
+
