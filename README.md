@@ -33,3 +33,5 @@ This repository contains the source code for a GUI Chat Application developed fo
 GTK-3 development libraries must be installed. On Ubuntu / Kali / WSL:
 ```bash
 sudo apt-get install libgtk-3-dev
+
+![GUI Chat Application Screenshot](1.png)
